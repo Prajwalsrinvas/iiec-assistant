@@ -14,7 +14,7 @@ Links i referred:
 [Geeks for Geeks](https://www.geeksforgeeks.org/speech-recognition-in-python-using-google-speech-api/)
 
 Future improvements:
-. Using NLP instead of manually coding in the software names.
-. Optimization of existing code
+1. Using NLP instead of manually coding in the software names.
+2. Optimization of existing code.
 
 Video Demo: https://www.youtube.com/watch?v=CGbiEUt9TkM
