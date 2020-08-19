@@ -1,4 +1,4 @@
-# iiec-assistant
+# IIEC Assistant
 Opening software programs with voice commands!
 
 I have used the concept of dictionaries and looping constructs instead of a lot of nested if statements.
